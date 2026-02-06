@@ -1,6 +1,6 @@
 {
   "name": "@furkankoykiran/omniwire-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gold standard MCP data flow server with Sentinel architecture, dynamic configuration, and universal parsing",
   "type": "module",
   "main": "dist/index.js",
