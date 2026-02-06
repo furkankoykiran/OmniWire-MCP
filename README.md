@@ -1,6 +1,6 @@
 # OmniWire MCP Server ⚡️
 
-![Release](https://img.shields.io/badge/release-v1.0.2-blue)
+![Release](https://img.shields.io/badge/release-v1.0.3-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![MCP](https://img.shields.io/badge/MCP-Compatible-orange)
 
