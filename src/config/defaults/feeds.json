@@ -1,0 +1,37 @@
+{
+    "sources": [
+        {
+            "id": "hacker-news",
+            "name": "Hacker News",
+            "url": "https://news.ycombinator.com/rss",
+            "type": "rss",
+            "category": "Technology",
+            "enabled": true
+        },
+        {
+            "id": "wired",
+            "name": "Wired",
+            "url": "https://www.wired.com/feed/rss",
+            "type": "rss",
+            "category": "Technology",
+            "enabled": true
+        },
+        {
+            "id": "verge",
+            "name": "The Verge",
+            "url": "https://www.theverge.com/rss/index.xml",
+            "type": "rss",
+            "category": "Technology",
+            "enabled": true
+        }
+    ],
+    "configPollIntervalMs": 60000,
+    "contentPollIntervalMs": 300000,
+    "requestTimeoutMs": 10000,
+    "maxItemsPerSource": 50,
+    "sentinel": {
+        "failureThreshold": 3,
+        "recoveryTimeoutMs": 60000,
+        "successThreshold": 2
+    }
+}
