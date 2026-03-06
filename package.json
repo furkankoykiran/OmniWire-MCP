@@ -12,6 +12,7 @@
     "url": "https://github.com/furkankoykiran/OmniWire-MCP.git"
   },
   "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
     "access": "public",
     "provenance": true
   },
